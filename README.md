@@ -1,6 +1,6 @@
 # Foundations Projects:
 
-### Foundations | The Odin Project | All Projects
+### All Foundations Projects | The Odin Project | Foundations
 
 This repository will include links to all projects of the "Foundations" course within "The Odin Project".
 
