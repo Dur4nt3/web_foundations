@@ -6,6 +6,8 @@ This repository will include links to all projects of the "Foundations" course w
 
 This repository was created after I completed the "Foundations" course, and its main goal is to give easy access to all projects done during the course and a short summary of what the projects include. [^1]
 
+Please take note of each project's commit history; it is possible additional features *(not in the scope of the original project)* were added to a certain project; you can use the commit history *(and the "README" file within each repository)* to determine whether additional features *(that weren't a part of the original project)* were added to a project.
+
 ### Projects Included:
 
 - ["Odin Recipes"](https://github.com/Dur4nt3/odin_recipes) - The first project I created, a very basic recipes website.
